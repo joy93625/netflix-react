@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Netflix-React](https://nexflix-clone-313bf.web.app/)
 
-# TMDB API 網路電影資料庫
+### TMDB API 網路電影資料庫
 串接 TMDB API 拿取電影相關資訊
 
-# Firebase部署
+### Firebase部署
 
 Login / Signup screen 身份驗證及註冊功能    
 
@@ -16,7 +16,7 @@ Login / Signup screen 身份驗證及註冊功能
 測試密碼:   
 	abcabc   
 
-# Stripe Checkout
+### Stripe Checkout
 
 處理用戶每月訂閱並可以跟換訂閱計劃，使用Firebase + Stripe Extension，Firebase實時數據庫來跟蹤用的訂閱！   
 
