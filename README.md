@@ -1,10 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+# DEMO網址
+
+[Netflix-React](https://nexflix-clone-313bf.web.app/)
 
 # TMDB API 網路電影資料庫
 串接 TMDB API 拿取電影相關資訊
 
-# Firebase 
+# Firebase部署
 
 Login / Signup screen 身份驗證及註冊功能    
 
