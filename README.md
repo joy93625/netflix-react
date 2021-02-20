@@ -6,21 +6,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Firebase 
 
-Login / Signup screen 身份驗證及註冊功能
+Login / Signup screen 身份驗證及註冊功能    
 
-測試帳號
-	raven1@gmail.com
-測試密碼
-	abcabc
+測試帳號:    
+	raven1@gmail.com   
+測試密碼:   
+	abcabc   
 
+# Stripe Checkout
 
-#Stripe Checkout
+處理用戶每月訂閱並可以跟換訂閱計劃，使用Firebase + Stripe Extension，Firebase實時數據庫來跟蹤用的訂閱！   
 
-處理用戶每月訂閱並可以跟換訂閱計劃，使用Firebase + Stripe Extension，Firebase實時數據庫來跟蹤用的訂閱！
-
-測試信用卡
-	4242 - 4242 - 4242 4242
-	04/24  CVC: 424
+測試信用卡:   
+	4242 - 4242 - 4242 4242   
+	04/24  CVC: 424   
 
 
 
