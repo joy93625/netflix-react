@@ -27,6 +27,7 @@ Login / Signup screen 身份驗證及註冊功能
 
 
 ![](https://github.com/joy93625/netflix-react/blob/main/img/01.png)
+![](https://github.com/joy93625/netflix-react/blob/main/img/05.png)
 ![](https://github.com/joy93625/netflix-react/blob/main/img/02.png)
 ![](https://github.com/joy93625/netflix-react/blob/main/img/03.png)
 ![](https://github.com/joy93625/netflix-react/blob/main/img/04.png)
