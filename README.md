@@ -12,7 +12,7 @@ Login / Signup screen 身份驗證及註冊功能
 	raven1@gmail.com
 #####測試密碼
 	abcabc
-
+[]()
 
 #Stripe Checkout
 
